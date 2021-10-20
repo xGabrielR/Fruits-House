@@ -1,2 +1,2 @@
-# Fruits-House
+# Fruits House
 Fruits Classification with Deep Learning
