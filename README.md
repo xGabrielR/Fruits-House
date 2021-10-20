@@ -1,6 +1,9 @@
 # Fruits House
 Fruits Classification with Deep Learning
 
+![fruits house](https://user-images.githubusercontent.com/75986085/138163047-c8484b1e-c4e6-45d1-980d-fef433050d74.png)
+
+
 <h2>1. Bussines Problem</h2>
 
 <p>Scientific Application for Fruits Classification.</p>
