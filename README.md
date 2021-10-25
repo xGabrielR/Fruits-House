@@ -12,7 +12,6 @@ Fruits Classification with Deep Learning
 <h2>2. Solution Strategy & Assumptions</h2>
 <h3>First CRISP Cycle</h3>
 
-
 <ul>
   <dl>
     <dt>Data Pre Processing.</dt>
@@ -53,4 +52,8 @@ Fruits Classification with Deep Learning
 </ul>
 
 <h2>6. Second Cycle</h2>
-<p>In working at second cycle.</p>
+<p>New Data Preparation & Model with accuracy > 90%.</p>
+
+<h2>Model Deploy</h2>
+<p>Deploy with Streamlit</p>
+<a href="https://share.streamlit.io/xgabrielr/fruits-app/main/fruits-classification.py">Streamlit App</a><br>
