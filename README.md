@@ -7,7 +7,7 @@ Fruits Classification with Deep Learning
 <h2>1. Bussines Problem</h2>
 
 <p>Scientific Application for Fruits Classification.</p>
-<p>"Fruits House" is a fruit & vegetable fruits shop of Sc, CEO of this shop asked new method for fruits classification to implement in your company.</p>
+<p>The CEO of the company called Fruits House, a fruit and vegetable distributor in the south of Brazil, requested at data analists some more scientific way to classify fruits so that this more scientific model could be coupled to a drone that would travel across the entire region of agricultural planting of several areas of the company's production throughout the southern region..</p>
 
 <h2>2. Solution Strategy & Assumptions</h2>
 <h3>First CRISP Cycle</h3>
