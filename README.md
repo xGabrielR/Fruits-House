@@ -11,7 +11,6 @@ Fruits Classification with Deep Learning
 
 <h2>2. Solution Strategy & Assumptions</h2>
 <h3>First CRISP Cycle</h3>
-
 <ul>
   <dl>
     <dt>Data Pre Processing.</dt>
