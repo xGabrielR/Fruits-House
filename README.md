@@ -59,3 +59,8 @@ Having some unique layers with specific objective, conv2 layer detect edges, max
 <h2>5. Model Deployment</h2>
 <p>Deploy with Streamlit application on cloud. In this version you send a image to classifier, and the model return a probability dataframe.</p>
 <a href="https://share.streamlit.io/xgabrielr/fruits-app/main/fruits-classification.py">Streamlit App</a><br>
+
+<h2>6. Suplementar Material</h2>
+- https://www.youtube.com/c/Deeplearningai
+- https://docente.ifsc.edu.br/fernando.zinger/MaterialDidatico/PROJETO%20INTEGRADOR%20II/MODELO%20PLANO%20DE%20NEG%C3%93CIO.pdf
+- https://www.kaggle.com/muhammadimran112233/99-acc-fruits-recognition-using-nn
