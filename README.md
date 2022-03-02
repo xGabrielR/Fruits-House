@@ -5,56 +5,55 @@
 <h2>0. Introduction</h2>
 <p>Fruits House is a agroindustry in southern Brazil. The bussiness model consists in fruits plantations, collect, preparation and transport for all Brazil.</p>
 <p>It has recently started some expansions in the area of technology requiring a new method of collecting and classifying fruits.</p>
+Bussiness Model Parts:
+
+1. **Fruits Plantation:**
+The plantation field is currently extensive, having n km of plantation with the distribution of 131 fruits.
+
+2. **Fruits Collect:**
+In the plantation fields, have some people focusing your working on collect, its possible a complete harvest a year depending on the fruit and its characteristics, I see fruits that take longer to collect and other fruits that annual collection is possible.
+
+3. **Fruits Preparation:**
+Have some products can be making with fruits like cakes, juices, dried, frozen for making candy and juices, and much more.  
+
+4. **Fruits Storange:**
+There is a lot of technology and preparation for the storage of fruits, with care mainly with frozen fruits that need specific constructions to keep them at an ideal temperature.
+
+5. **Fruits Transportation:**
+Basically how fruits are distributed throughout Brazil.
 
 <h2>1. Bussines Problem</h2>
 
 <p>Scientific Application for Fruits Classification.</p>
 <p>The CEO of the company called Fruits House, a fruit and vegetable distributor in the south of Brazil, requested at data analysts some more scientific way to classify fruits so that this more scientific model could be coupled to a drone that would travel across the entire region of agricultural planting of several areas of the company's production throughout the southern region.</p>
 
+> *How i classify fruits without human presence?*
+
 <h2>2. Solution Strategy & Assumptions</h2>
 <h3>First CRISP Cycle</h3>
 <ul>
   <dl>
-    <dt>Data Pre Processing.</dt>
-      <dd>First steps is transform label to numeric value & split dataset 50% for training & validation.</dd>
-    <dt>Data Preparation.</dt>
-      <dd>Second step is data preparation, in this step basically create tensorflow train & validation dataset.</dt>
-      <dd>Simple way to reduce dimensionality of dataset.</dd>
-    <dt>Fruits Classifier with Deep Learning.</dt>
-      <dd>Used EfficientNetB3 in this first cycle with 0.66 accuracy.</dd>
+    <dt>Data Pre Processing & Preparation.</dt>
+      <dd>In a high resume, prepare data with Data Augmentation technique and load the data with data augmentation from folder.</dd>
+    <dt>Fruits Classifier with Convolutional Network.</dt>
+      <dd>I have created CNN Model from scratch for train & test on dataset.</dd>
   </dl>
 </ul>
 
 <h2>3. Data Pre-Processing</h2>
 
 <p>Deep Learning basically is math, statistic and programming, to make model, need to transform categorical variables in numeric.</p>
-<p>I used label encoder from sklearn.</p>
+<p>I used simple load of Tensorflow, he automatic prepare the dataset with data augmentation parameters that i chosen based on my experience.</p>
 
-<h2>4. Data Preparation</h2>
+<h2>4. Convolutiona Neural Network</h2>
+**What is a CNN ?**<br>
+CNN is a variation of MLP Models, used on image classification, object detection and neural style transfer.
+Having some unique layers with specific objective, conv2 layer detect edges, max pooling reduce the dataset, dropuot reduce the neural network nodes, stride is the step of convolutional layer, padding is the expand of image, and much other features.
 
-<p>This step is create train & validation dataset for model.</p>
-<ul>
-  <li>Convert images and labels to tensorflow dataset.</li>
-  <li>Data Augmentation in training & validation dataset.</li>
-</ul>
+<p>Personal Draw of One Conv Network i have inplemented on project.</p>
 
-<!--
-<h2>4.x EfficientNetB3</h2>
-<p>Model used with other head.</p>
-<a href="https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet/EfficientNetB3">Tensorflow EfficientNetB3</a>
+![handdraw_cnn](https://user-images.githubusercontent.com/75986085/156445324-4a502c70-e71b-476f-9bf4-e6796c9706ff.png)
 
-<h2>5. Model Evaluation</h2>
-
-<ul>
-  <dl>
-    <dt>Accuracy.</dt>
-      <dd>In first Cycle, Accuracy: 0.668 %</dd>
-  </dl>
-</ul>
-
-<h2>6. Second Cycle</h2>
-<p>New Data Preparation & Model with accuracy > 90%.</p> -->
-
-<h2>Model Deploy</h2>
+<h2>5. Model Deployment</h2>
 <p>Deploy with Streamlit application on cloud. In this version you send a image to classifier, and the model return a probability dataframe.</p>
 <a href="https://share.streamlit.io/xgabrielr/fruits-app/main/fruits-classification.py">Streamlit App</a><br>
