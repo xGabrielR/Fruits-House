@@ -1,7 +1,6 @@
 # Fruits House
-Fruits Classification with Deep Learning
 
-![fruits house](https://user-images.githubusercontent.com/75986085/138163047-c8484b1e-c4e6-45d1-980d-fef433050d74.png)
+![f_r](https://user-images.githubusercontent.com/75986085/156441044-bb097cb2-f35e-4c85-b398-88bb5c39cf25.png)
 
 <h2>0. Introduction</h2>
 <p>Fruits House is a agroindustry in southern Brazil. The bussiness model consists in fruits plantations, collect, preparation and transport for all Brazil.</p>
