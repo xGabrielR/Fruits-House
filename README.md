@@ -2,6 +2,8 @@
 
 ![f_r](https://user-images.githubusercontent.com/75986085/156441251-4ed310d6-1753-404f-8802-424d26a21e6f.png)
 
+<a href='https://github.com/xGabrielR/Fruits-House/blob/main/notebooks/c03_storytelling_documentation.pdf'>Full PDF Documentation PT-BR.</a>
+
 <h2>0. Introduction</h2>
 <p>Fruits House is a agroindustry in southern Brazil. The bussiness model consists in fruits plantations, collect, preparation and transport for all Brazil.</p>
 <p>It has recently started some expansions in the area of technology requiring a new method of collecting and classifying fruits.</p>
