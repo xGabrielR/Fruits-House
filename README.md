@@ -40,6 +40,7 @@ Fruits Classification with Deep Learning
   <li>Data Augmentation in training dataset.</li>
 </ul>
 
+<!--
 <h2>4.x EfficientNetB3</h2>
 <p>Model used with other head.</p>
 <a href="https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet/EfficientNetB3">Tensorflow EfficientNetB3</a>
@@ -54,8 +55,8 @@ Fruits Classification with Deep Learning
 </ul>
 
 <h2>6. Second Cycle</h2>
-<p>New Data Preparation & Model with accuracy > 90%.</p>
+<p>New Data Preparation & Model with accuracy > 90%.</p> -->
 
 <h2>Model Deploy</h2>
-<p>Deploy with Streamlit</p>
+<p>Deploy with Streamlit application on cloud. In this version you send a image to classifier, and the model return a probability dataframe.</p>
 <a href="https://share.streamlit.io/xgabrielr/fruits-app/main/fruits-classification.py">Streamlit App</a><br>
