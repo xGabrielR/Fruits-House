@@ -34,9 +34,8 @@
 
 <p>This step is create train & validation dataset for model.</p>
 <ul>
-  <li>Data Augmentation.</li>
   <li>Convert images and labels to tensorflow dataset.</li>
-  <li>Data Augmentation in training dataset.</li>
+  <li>Data Augmentation in training & validation dataset.</li>
 </ul>
 
 <!--
