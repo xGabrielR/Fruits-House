@@ -46,9 +46,11 @@ Basically how fruits are distributed throughout Brazil.
 <p>I used simple load of Tensorflow, he automatic prepare the dataset with data augmentation parameters that i chosen based on my experience.</p>
 
 <h2>4. Convolutiona Neural Network</h2>
-**What is a CNN ?**<br>
+
+**What is a CNN ?**
+
 CNN is a variation of MLP Models, used on image classification, object detection and neural style transfer.
-Having some unique layers with specific objective, conv2 layer detect edges, max pooling reduce the dataset, dropuot reduce the neural network nodes, stride is the step of convolutional layer, padding is the expand of image, and much other features.
+Having some unique layers with specific objective, conv2 layer detect edges, max pooling reduce the dataset, dropuot reduce the neural network nodes, stride is the step of convolutional layer, padding is the expand of image, and much other features, which I will detail throughout this project.
 
 <p>Personal Draw of One Conv Network i have inplemented on project.</p>
 
