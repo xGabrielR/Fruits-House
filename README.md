@@ -63,6 +63,6 @@ Having some unique layers with specific objective, conv2 layer detect edges, max
 <a href="https://share.streamlit.io/xgabrielr/fruits-app/main/fruits-classification.py">Streamlit App</a><br>
 
 <h2>6. Suplementar Material</h2>
-- https://www.youtube.com/c/Deeplearningai
-- https://docente.ifsc.edu.br/fernando.zinger/MaterialDidatico/PROJETO%20INTEGRADOR%20II/MODELO%20PLANO%20DE%20NEG%C3%93CIO.pdf
-- https://www.kaggle.com/muhammadimran112233/99-acc-fruits-recognition-using-nn
+- https://www.youtube.com/c/Deeplearningai <br>
+- https://docente.ifsc.edu.br/fernando.zinger/MaterialDidatico/PROJETO%20INTEGRADOR%20II/MODELO%20PLANO%20DE%20NEG%C3%93CIO.pdf <br>
+- https://www.kaggle.com/muhammadimran112233/99-acc-fruits-recognition-using-nn <br>
