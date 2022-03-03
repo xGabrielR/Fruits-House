@@ -59,7 +59,7 @@ Having some unique layers with specific objective, conv2 layer detect edges, max
 ![handdraw_cnn](https://user-images.githubusercontent.com/75986085/156445324-4a502c70-e71b-476f-9bf4-e6796c9706ff.png)
 
 <h2>5. Model Deployment</h2>
-<p>Deploy with Streamlit application on cloud. In this version you send a image to classifier, and the model return a probability dataframe.</p>
+<p>Deploy with Streamlit application on cloud. In this version you send a image to classifier, and the model return a probability dataframe. OBS: This version is the version of older C2 model & app.</p>
 <a href="https://share.streamlit.io/xgabrielr/fruits-app/main/fruits-classification.py">Streamlit App</a><br>
 
 <h2>6. Suplementar Material</h2>
