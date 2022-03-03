@@ -54,7 +54,7 @@ Basically how fruits are distributed throughout Brazil.
 CNN is a variation of MLP Models, used on image classification, object detection and neural style transfer.
 Having some unique layers with specific objective, conv2 layer detect edges, max pooling reduce the dataset, dropuot reduce the neural network nodes, stride is the step of convolutional layer, padding is the expand of image, and much other features, which I will detail throughout this project.
 
-<p>Personal Draw of One Conv Network i have inplemented on project.</p>
+<p>Personal Draw of One Conv Network i have inplemented on project :p</p>
 
 ![handdraw_cnn](https://user-images.githubusercontent.com/75986085/156445324-4a502c70-e71b-476f-9bf4-e6796c9706ff.png)
 
