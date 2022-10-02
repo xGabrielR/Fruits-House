@@ -24,7 +24,7 @@ There is a lot of technology and preparation for the storage of fruits, with car
 5. **Fruits Transportation:**
 Basically how fruits are distributed throughout Brazil.
 
-<h2>1. Bussines Problem</h2>
+<h2>1. Business Problem</h2>
 
 <p>Scientific Application for Fruits Classification.</p>
 <p>The CEO of the company called Fruits House, a fruit and vegetable distributor in the south of Brazil, requested at data analysts some more scientific way to classify fruits so that this more scientific model could be coupled to a drone that would travel across the entire region of agricultural planting of several areas of the company's production throughout the southern region.</p>
